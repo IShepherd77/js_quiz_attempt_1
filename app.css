@@ -52,9 +52,9 @@ h3 {
     margin: 0 auto;
 }
 
-.container > * {
+/* .container > * {
     margin: 100%;
-}
+} */
 
 .flex-column {
     display: flex;
